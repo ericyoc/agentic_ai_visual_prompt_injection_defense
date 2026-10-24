@@ -1,8 +1,8 @@
+<a href="https://lounge.ai/@ericyocam"><img src="https://lounge.ai/api/badge/ericyocam" alt="Eric Yocam on Lounge" height="28"></a>
+
 # Multi-Agent Steganographic Prompt Injection via MCP
 
 This repository demonstrates a Multi-Agent Steganographic Prompt Injection attack against an AI orchestrator utilizing the Model Context Protocol (MCP). It serves as a comprehensive educational proof-of-concept (PoC) to illustrate the severe risks of Indirect Prompt Injection, Context Contamination, and Excessive Agency in modern autonomous agent architectures. Furthermore, it details how to implement zero-trust data provenance and Verifier-Agents to effectively defend against these emerging threats.
-
-<a href="https://lounge.ai/@ericyocam"><img src="https://lounge.ai/api/badge/ericyocam" alt="Eric Yocam on Lounge" height="28"></a>
 
 ## Background and Context
 
